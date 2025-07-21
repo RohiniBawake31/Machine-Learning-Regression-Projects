@@ -14,6 +14,7 @@ Sales: Units sold (in thousands)
   Drop unnecessary columns like Unnamed: 0 .
 # Model Building:
 Divide data into training and testing used 80% data for training & 20 % data for testing the model.
+# Model Evaluation:
    we have to use linear regression model its give 91% R2 Score. then K neirest neighbour give 93% and In Naive bayes algorithms we used baysian ridge its gives 89% r2 score.
 From this we conclude that k neirest neighbour model is give more accurest prediction.
 
